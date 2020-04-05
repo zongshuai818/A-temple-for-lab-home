@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+
+{% include head.html %}
+{% include inline-mathjax.html %}
+
+<body>
+  <div class="container-black">
+    <div class="container">
+      {% include header.html %}
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="post-container">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+<div class="menu">
+  <nav class="menu-content">
+    <a href="/writing">Writing</a>
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+    <a href="/assets/cv.pdf" target="_blank">CV</a>
+  </nav>
+  <nav class="social-icons">
+    {% include social-icons.html %}
+  </nav>
+</div>
