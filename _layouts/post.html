@@ -40,10 +40,13 @@ layout: default
   {% endif %}
 </span>
 
+<!--注释：添加分享-->
 {% include social-sharing.html %}
 
+<!--添加相关博客-->
 {% include related-posts.html %}
 
+<!--添加评论区-->
 {% if site.data.settings.disqus.comments %}
   {% include disqus.html %}
 {% endif %}
