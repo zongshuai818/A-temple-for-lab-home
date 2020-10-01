@@ -1,2 +1,2 @@
-# zongshuai818.github.io
+# LANCO
 Lab website
