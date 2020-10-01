@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Language Computing and Machine Learning Group
+
+== Introduction
+The Language Computing and Machine Learning Group is affiliated with Institute of Computational Linguistics (Key Laboratory of Computational Linguistics), School of Electronics Engineering and Computer Science, Peking University. The group is founded in 2013 and is led by [https://xusun.org/ Xu Sun]
+
+
+Based on machine learning technology and deep learning technology, we study Machine Learning for Language (including Deep Neural Networks, Learning for Knowledge Graphs, Learning for NLG and Learning for Multi-Modal (especially visual) NLP) and Natural Language Generation (including Machine Translation, Summarization, Dialogue, Multi-Modal (especially visual) NLG).
+
+== Recent Publications 
+. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
+. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
+multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
+. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
+. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. 
+
+[publications.html Full list of publications].
+
+== News
+. 2019年9月，本组完成的2篇论文被人工智能与机器学习顶级会议 NeurIPS 2019 录用。
+. 2019年9月，本组完成的2篇论文被人工智能与机器学习顶级会议 NeurIPS 2019 录用。
+. 2019年9月，本组完成的2篇论文被人工智能与机器学习顶级会议 NeurIPS 2019 录用。
+. 2019年9月，本组完成的2篇论文被人工智能与机器学习顶级会议 NeurIPS 2019 录用。
+
+[news.html Find out more].
+
+
