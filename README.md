@@ -1,2 +1,0 @@
-# LANCO
-Lab website
