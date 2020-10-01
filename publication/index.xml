@@ -20,5 +20,77 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Benchmarking Graph Neural Networks</title>
+      <link>https://graphdeeplearning.github.io/publication/dwivedi-2020-benchmark/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://graphdeeplearning.github.io/publication/dwivedi-2020-benchmark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Graph Transformer for Free-Hand Sketch Recognition</title>
+      <link>https://graphdeeplearning.github.io/publication/xu-2019-multi/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://graphdeeplearning.github.io/publication/xu-2019-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Two-Step Graph Convolutional Decoder for Molecule Generation</title>
+      <link>https://graphdeeplearning.github.io/publication/bresson-2019-two/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://graphdeeplearning.github.io/publication/bresson-2019-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Learning Paradigms for the Travelling Salesman Problem</title>
+      <link>https://graphdeeplearning.github.io/publication/joshi-2019-learning/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://graphdeeplearning.github.io/publication/joshi-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem</title>
+      <link>https://graphdeeplearning.github.io/publication/joshi-2019-efficient/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://graphdeeplearning.github.io/publication/joshi-2019-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphTSNE: A Visualization Technique for Graph-Structured Data</title>
+      <link>https://graphdeeplearning.github.io/publication/leow-2019-graphtsne/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://graphdeeplearning.github.io/publication/leow-2019-graphtsne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Experimental Comparison of Text Classification Techniques</title>
+      <link>https://graphdeeplearning.github.io/publication/lakhotia-2018-experimental/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://graphdeeplearning.github.io/publication/lakhotia-2018-experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Experimental Study of Neural Networks for Variable Graphs</title>
+      <link>https://graphdeeplearning.github.io/publication/bresson-2018-experimental/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://graphdeeplearning.github.io/publication/bresson-2018-experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Gated Graph ConvNets</title>
+      <link>https://graphdeeplearning.github.io/publication/bresson-2017-residual/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://graphdeeplearning.github.io/publication/bresson-2017-residual/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
